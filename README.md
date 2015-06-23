@@ -1,4 +1,11 @@
 # hotspot-detection
+Authors :
+Anand Kumar Dharmaraj
+Nihal Kolipaka
+Rupesh Kumar Perugu
+Sabari Trinadh Reddy Tippareddy
+Varun Varma Sangaraju
+
  The project aims at detecting an effective and suitable area for establishing a store or business center to function successfully. This project was developed and documented by a team of 5 students.
 
 The major factor that plays a vital role for a business is finding a best and profitable location. Business owners are proactive and will be ready to spend huge amount of money in locating a best location for their business. As it is one of the primary factor that needs to be considered to enhance business and generate better revenues, there has been an alarming rate of research undergone in this field. 
